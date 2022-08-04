@@ -1,0 +1,4 @@
+#  documentat
+*   Candy.
+*   Gum.
+*   Booze.
